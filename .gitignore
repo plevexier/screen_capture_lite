@@ -230,3 +230,8 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+
+.idea/
+.vs
+.vscode/
+cmake-build-debug/
